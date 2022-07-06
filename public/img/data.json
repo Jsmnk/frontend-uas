@@ -1,0 +1,75 @@
+{
+    "head" :
+    {
+        "img":"img/me1.jpg",
+        "judul":"IT'S ME",
+        "nama":"Jasmine Khoirunnisa",
+        "description":"Saya adalah mahasiswi STIKOM PGRI Banyuwangi angkatan 2020, Tempat tinggal saya di Rogojampi Banyuwangi. Salam kenal teman teman semua!!!"
+    },
+    "perkenalan" :
+    {
+        "judul":"ABOUT MYSELF",
+        "isi":"Saya lahir pada tanggal 14 Februari tahun 2001 di kota Banyuwangi. Saya mempunyai 1 kakak laki-laki dan 2 adik perempuan, dan kami tinggal bersama kedua orang tua kami. pada tahun 2013 setelah tamat Sekolah Dasar saya memutuskan untuk menimba ilmu di Pondok Pesantren Modern Al-Azhar Muncar sampai tahun 2019, Kemudian setelah lulus sekolah saya sempat mengikuti progam les gratis di Magistra Utama Banyuwangi, setelah itu saya juga sempat bekerja menjadi bagian admin di salah satu toko oleh-oleh di Banyuwangi, lalu saya harus berhenti bekerja karena saya harus melanjutkan kuiah di kampus STIKOM PGRI Banyuwangi, selain kuliah saya juga Mengajar di TPQ yang tidak jauh dari rumah. saya berharap selalu menjadi bermanfaat bagi keluarga dan sekitar. Terimakasih"
+    },
+    "pengalaman" :
+    {
+        "judul":"MY EXPERIENCE",
+        "img":[
+            {
+                "img1":"img/mengajar.jpg",
+                "text":"Mengajar"
+            },
+            {
+                "img2":"img/bekerja.jpeg",
+                "text":"Bekerja"
+            },
+            {
+                "img3":"img/les.jpg",
+                "text":"Les di Magistra Utama"
+            }
+        ]
+    },
+    "img" :
+    {
+        "judul":"MY PICTURE",
+        "text":"Ini adalah gambar saya dan keluarga, saya dan teman teman baik saya",
+        "img":[
+            {
+                "img4":"img/family.jpg",
+                "waktu":"Hari Raya 1443 Hijriah"
+            },
+            {
+                "img5":"img/besti1.jpeg",
+                "waktu":"Liburan yang sangat jarang terjadi bersama mereka"
+            },
+            {
+                "img6":"img/besti2.jpeg",
+                "waktu":"Teman-teman ku dan Basecamp"
+            }
+        ]
+    },
+    "kiri footer" :
+    {
+        "judul":"ABOUT ME",
+        "text":"Dari saya Jasmine Khoirunnisa Semoga hari mu selalu menyenangkan, Terimakasih sudah berkenan membaca biografi tentang saya"
+    },
+    "kanan footer" :
+    {
+        "judul":"FOLLOW ME",
+        "text":"Let us be social",
+        "icon":[
+            {
+                "icon1":"fa fa-facebook",
+                "url1":"https://www.facebook.com/jasmine.khoirunnisa.14"
+            },
+            {
+                "icon2":"fa fa-instagram",
+                "url2":"https://www.instagram.com/jasminenisaa14/?hl=id"
+            },
+            {
+                "icon3":"fa fa-twitter",
+                "url3":"https://twitter.com/JKhoirunnisa14"
+            }
+        ]
+    }
+}
